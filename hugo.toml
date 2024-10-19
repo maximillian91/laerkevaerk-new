@@ -41,34 +41,34 @@ link = "plugins/search/search.js"
 
 ################################ menu ##################################
 [[menu.main]]
-name = "Home"
+name = "Hjem"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "Om mig"
 url = "about/"
 weight = 2
 
 [[menu.main]]
-name = "Category"
+name = "Værk"
 url = "categories/nature/"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact/"
 weight = 4
 
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 5
+#[[menu.main]]
+#name = "Privacy Policy"
+#url = "privacy-policy/"
+#weight = 5
 
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/laerkevaerk_logo_rent.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"

@@ -68,7 +68,7 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/laerkevaerk_logo_rent.png"
+logo = "images/laerkevaerk_logo_title.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"

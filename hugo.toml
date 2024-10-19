@@ -1,0 +1,4 @@
+baseURL = 'https://maximillian91.github.io/laerkevaerk-new/'
+languageCode = 'en-us'
+title = 'Lærkeværk'
+theme = 'persian-hugo'

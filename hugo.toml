@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://maximillian91.github.io/laerkevaerk-new/"
-title = "Persian"
+title = "Lærkeværk"
 theme = "persian-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -64,6 +64,16 @@ weight = 4
 #name = "Privacy Policy"
 #url = "privacy-policy/"
 #weight = 5
+
+[[menu.main]]
+name = "Forfatter"
+url = "author/john-doe"
+weight = 6
+
+[[menu.main]]
+name = "Skitsetegning"
+url = "categories/skitsetegning/"
+weight = 7
 
 
 #################### default parameters ################################

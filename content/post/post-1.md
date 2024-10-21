@@ -1,7 +1,7 @@
 ---
 title: "Building an interface between people and nature"
 date: 2020-05-12T12:14:34+06:00
-image: "images/post/post-1.jpg"
+image: "images/post/post-1_laerkevaerk.png"
 author: "John Doe" # use capitalize
 description: "This is meta description."
 categories: ["tinyhouse"]

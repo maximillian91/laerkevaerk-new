@@ -1,6 +1,6 @@
 ---
 title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
-image: "images/author.jpg"
+image: "images/laerke_in_eelgrass_small.png"
 description: "This is meta description."
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
-title: "John Doe"
-image: ""
-email: "johndoe@parsian.com"
+title: "Lærke Knudsen Lorentsen"
+image: "images/laerke_in_eelgrass_small.png"
+email: "lknudsenlorentsen@gmail.com"
 social:
 - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
   link : "#"

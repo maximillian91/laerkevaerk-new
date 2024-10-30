@@ -67,7 +67,7 @@ weight = 4
 
 [[menu.main]]
 name = "Forfatter"
-url = "author/john-doe"
+url = "author/laerke-knudsen-lorentsen"
 weight = 6
 
 [[menu.main]]
@@ -87,7 +87,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Themefisher](https://themefisher.com/) - Developed By [Gethugothemes](https://gethugothemes.com/) - Redesigned my [Maximillian](https://github.com/maximillian91)"
 
 # Preloader
 [params.preloader]

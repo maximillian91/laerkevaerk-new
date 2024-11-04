@@ -1,7 +1,7 @@
 ---
 title: "Kontakt Mig"
 # meta description
-description: "this is meta description"
+description: "Kontaktformular til Lærke Knudsen Lorentsen"
 # save as draft
 draft: false
 ---

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://maximillian91.github.io/laerkevaerk-new/"
-title = "Lærkeværk"
+title = "lærkeværk"
 theme = "persian-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -85,7 +85,7 @@ author = "Themefisher"
 # search  
 search = true
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mwpkldwr" # contact form works with https://formspree.io
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) - Developed By [Gethugothemes](https://gethugothemes.com/) - Redesigned my [Maximillian](https://github.com/maximillian91)"
 
